@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchdync",
+        "uuid": 3791136,
+        "checksum": "la191u"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
